@@ -127,7 +127,7 @@ h1, h2, h3 {
   padding: 20px; }
 
 .tile {
-  width: 300px;
+  width: 260px;
   height: 100px;
   display: flex;
   align-items: center;
@@ -140,7 +140,7 @@ h1, h2, h3 {
   -moz-transition: opacity .75s; }
 
 .fish {
-  width: 280px;
+  width: 240px;
   height: 90px;
   object-fit: contain;
   color: white;
